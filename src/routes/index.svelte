@@ -2,10 +2,12 @@
 	import Container from '../components/Container.svelte';
 	import { MetaTags } from 'svelte-meta-tags';
 	import { reviews } from '../data';
+	import Navbar from '../components/Navbar.svelte';
 </script>
 
 <MetaTags title="Fiber" description="Create your portfolio in minutes with Fiber" />
 
+<Navbar />
 <section class="h-screen grid items-center">
 	<Container classes="grid md:grid-cols-2 items-center">
 		<div class="order-2 md:order-1">

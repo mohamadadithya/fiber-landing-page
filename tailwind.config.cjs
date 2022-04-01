@@ -7,6 +7,7 @@ module.exports = {
       },
       colors: {
         'violet-blue': '#4D13D1',
+        'purple-mimosa': '#A587FF'
       }
     },
   },

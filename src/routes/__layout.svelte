@@ -14,6 +14,5 @@
 </svelte:head>
 
 <main class="font-inter">
-	<Navbar />
 	<slot />
 </main>
