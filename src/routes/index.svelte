@@ -8,7 +8,7 @@
 <MetaTags title="Fiber" description="Create your portfolio in minutes with Fiber" />
 
 <Navbar />
-<section class="h-screen grid items-center">
+<section class="md:h-screen grid items-center mb-16">
 	<Container classes="grid md:grid-cols-2 items-center">
 		<div class="order-2 md:order-1">
 			<div class="mb-4 hidden md:block">
